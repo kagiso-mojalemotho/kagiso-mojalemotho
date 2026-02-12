@@ -1,4 +1,4 @@
-<h1 align="center">🧑‍💻 KAGISO MOJALEMOTHO</h1>
+<h1 align="center"> KAGISO MOJALEMOTHO</h1>
 <h3 align="center">Senior IT Consultant & Enterprise Architect</h3>
 <p align="center">
   <em>Oracle EBS • Database Administration • IT Governance • Cloud & DR Architecture</em>
