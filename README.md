@@ -17,9 +17,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kagiso.mojalemotho@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kagiso.mojalemotho%40gmail.com-red?style=flat-square&logo=gmail">
-  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Location-Gaborone,_Botswana-blue?style=flat-square&logo=google-maps">
   </a>
@@ -34,7 +31,7 @@
 OCP 12c DBA | Oracle EBS R12 Apps DBA | Oracle SOA Architect
 MCSE | MCDBA | MCSD | ITIL | COBIT | ISO 27001
 
-text
+
 
 ---
 
@@ -117,7 +114,7 @@ text
 ✅ -45% Open Support Calls
 ✅ Significant reduction in staff turnover
 
-text
+
 
 ---
 
@@ -208,19 +205,12 @@ text
 • Oracle WebCenter 11g • Oracle ECM 11g
 • Defence-in-a-Box (Reading, UK) • Computer Forensics
 
-text
 
 ---
 
-## 📫 Contact & Availability
-📧 Email: kagiso.mojalemotho@gmail.com
-📍 Location: Gaborone, Botswana
-📱 Mobile: +267 75212141 / +267 71239299
-💼 Status: Independent Consultant
 
 🌍 Available for: Remote | Interim | On-site engagements (Global)
 
-text
 
 <p align="center">
   <a href="mailto:kagiso.mojalemotho@gmail.com">
@@ -236,40 +226,3 @@ text
 
 ---
 
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&langs_count=8&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME-HERE&theme=dark" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📌 Pinned Projects
-
-*Coming soon — I am currently documenting my Oracle EBS upgrade scripts, RMAN recovery automation, and IT governance frameworks.*
-
----
-
-<p align="center">
-  <i>"Bridging the gap between executive governance and technical execution."</i>
-</p>
-
-<p align="center">
-  <b>— Kagiso Mojalemotho</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME-HERE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-Results-driven IT Consultant with **25+ years** orchestrating complex digital transformations across Southern Africa's government, finance, and telecommunications sectors. Proven track record in **Data Migration**, **System Integration**, and **Oracle E-Business Suite (EBS)** management for high-availability, mission-critical systems.
-
-Expert in translating technical risk into business strategy. Specialize in **Disaster Recovery (DataGuard/RMAN)** , **IT Governance (COBIT, ITIL, ISO 27001)** , and **Enterprise Data Security (Audit Vault, Database Firewall)** .
-
-> *"Bridging the gap between executive governance and technical execution—reducing operational costs, increasing system uptime, and mentoring high-caliber teams."*
-
-### 🏆 Active Certifications
