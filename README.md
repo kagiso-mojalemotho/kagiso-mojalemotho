@@ -213,7 +213,7 @@ MCSE | MCDBA | MCSD | ITIL | COBIT | ISO 27001
 
 
 <p align="center">
-  <a href="mailto:kagiso.mojalemotho@gmail.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="#">
